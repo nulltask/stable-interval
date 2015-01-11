@@ -1,0 +1,29 @@
+{
+  "name": "stable-interval",
+  "version": "0.0.0",
+  "description": "Stable `setInterval`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "zuul -- test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nulltask/stable-interval.git"
+  },
+  "keywords": [
+    "browserify",
+    "stable",
+    "worker",
+    "interval"
+  ],
+  "author": "nulltask <nulltask@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nulltask/stable-interval/issues"
+  },
+  "homepage": "https://github.com/nulltask/stable-interval",
+  "files": [
+    "index.js",
+    "Readme.md"
+  ]
+}
